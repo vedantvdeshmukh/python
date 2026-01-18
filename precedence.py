@@ -20,3 +20,9 @@ not 0
 print("not 0 is ",not 0)
 not 5
 print("not 5 is ",not 5)
+
+print(input("enter a no.")+ input("enter another no.") + input("enter one more no."))
+print(int(input("enter a no.")) + int(input("enter another no.")) + int(input("enter one more no.")))
+print(max(10,20,30,5,3,50,100))
+print(min(10,20,30,5,3,50,100))
+print(abs(-7.5))       
